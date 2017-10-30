@@ -1,17 +1,4 @@
-element.style {
-  width: 1200px;
-}
-
-section.present {
-  width: 1200px;
-}
-
 .reveal .slides {
-  width: 1100px;
   font-size: 18px;
 }
 
-.reval .slides section>* {
-  mergin-left: 20;
-  margin-right 20;
-}
