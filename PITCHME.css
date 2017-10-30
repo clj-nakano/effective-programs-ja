@@ -2,3 +2,7 @@
   font-size: 18px;
 }
 
+.reval .slides section>* {
+  mergin-left: 20;
+  margin-right 20;
+}
