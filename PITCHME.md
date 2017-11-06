@@ -9,7 +9,7 @@
     - Java, Groovy, Scala
 - 08年 株式会社ディーバの米国開発拠点の設立
 - 15年 フィンテックLOYAL3で、200億円規模の米国証券バックオフィスシステムにClojureを適用
-- 16年 Clojure+Docker+AWSに特化した株式会社シグニファイアを設立
+- 16年 Clojure+Docker+AWSをベースにビスポーク開発に特化した株式会社シグニファイアを設立
 - 17年 開発に参画のプロジェクトがLegalWeek Innovation Awards 2017 International Law Firm Innovationを受賞
 ![LegalWeek Innovation Awards 2017](doc/img/LegalWeekInnovationAwards2017.png)
     - サーバーサイド: clojure, ring, compojure-api, elastic search, redis, postgres, docker, rancher, AWS
