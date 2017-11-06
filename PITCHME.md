@@ -2,13 +2,13 @@
 ## 発表者のプロファイル
 
 - 中村研二(@k2nakamura) 株式会社シグニファイア代表
-- 大学在籍中にFreeBSD, Linuxにハマる。その後NEXTStepでオブジェクト指向を習得
-- 93-97年 野村総合研究所で、UNIXとTCPIP WANベースの流通業向け基幹システムの開発
+- 大学在籍中にFreeBSD, Linuxにハマり、NEXTStepでオブジェクト指向を習得
+- 93-97年 野村総合研究所で、UNIXとTCP/IP WANベースの流通業向け基幹システムの開発
 - 97-00年 NRIパシフィックでシリコンバレー技術調査とプロトタイプの構築 
-- 00-16年 ベイエリアのスタートアップ数社で、通信・金融・知的財産の開発・マネジメントに従事
+- 01-16年 ベイエリアのスタートアップ数社で、通信・金融・知的財産の開発・マネジメントに従事
     - Java, Groovy, Scala
 - 08年 株式会社ディーバの米国開発拠点の設立
-- 15年 フィンテックLOYAL3で、200億円規模の米国証券バックオフィスシステムにClojureを適用
+- 15年 フィンテックLOYAL3で、2億米ドル規模の米国証券バックオフィスシステムにClojureを適用
 - 16年 Clojure+Docker+AWSをベースにビスポーク開発に特化した株式会社シグニファイアを設立
 - 17年 開発に参画のプロジェクトがLegalWeek Innovation Awards 2017 International Law Firm Innovationを受賞
 ![LegalWeek Innovation Awards 2017](doc/img/LegalWeekInnovationAwards2017.png)
